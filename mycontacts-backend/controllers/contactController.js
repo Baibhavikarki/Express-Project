@@ -84,6 +84,6 @@ module.exports = {
     getContacts, 
     createContact, 
     getContact, 
-    updateContact, 
+    updateContact,
     deleteContact
 };
